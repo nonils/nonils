@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @snonils
+- 👋 Hi, I’m @nonils
 - 👀 I’m interested in backend development and integration between thrid part services
 - 🌱 I’m currently learning golang and react js
 - 💞️ I’m looking to collaborate on open source related on third part integrations and ehealth projects
