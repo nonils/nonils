@@ -21,11 +21,10 @@
 
 ###
 
-[website]: https://kimos.io
+[website]: https://kimos.cloud
 [linkedin]: https://www.linkedin.com/in/sebastian-emanuel-bogado/
 [email]: mailto:nonils@tutanota.com/
 [twitter]: https://www.twitter.com/unDevConAuris
-[dev]: https://dev.to/nonils
 [medium]: https://medium.com/@kimos-io
 
 
@@ -36,4 +35,3 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://img.icons8.com/color/2x/twitter.png" />][twitter]
 [<img align="left" alt="codeSTACKr | Medium" width="30px" src="https://img.icons8.com/color/2x/medium-monogram.png" />][medium]
 [<img align="left" alt="codeSTACKr | Gmail" width="30px" src="https://img.icons8.com/color/2x/gmail.png" />][email]
-[<img align="left" alt="codeSTACKr | Dev" width="30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]
