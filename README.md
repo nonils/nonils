@@ -23,6 +23,7 @@
 
 [website]: https://kimos.cloud
 [linkedin]: https://www.linkedin.com/in/sebastian-emanuel-bogado/
+[github]: https://www.github.com/nonils
 [email]: mailto:nonils@tutanota.com/
 [twitter]: https://www.twitter.com/unDevConAuris
 [medium]: https://medium.com/@kimos-io
