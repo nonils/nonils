@@ -1,11 +1,9 @@
 
-### Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" height="35" style="max-width:100%;">, I'm Nonils
+### Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" height="35" style="max-width:100%;">, I'm Sebastian Bogado
 
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nonils&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
-
-<!-- ![](https://komarev.com/ghpvc/?username=dnature) -->
 
 ###
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nonils&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
@@ -21,7 +19,6 @@
 
 ###
 
-[website]: https://kimos.cloud
 [linkedin]: https://www.linkedin.com/in/sebastian-emanuel-bogado/
 [github]: https://www.github.com/nonils
 [email]: mailto:nonils@tutanota.com/
